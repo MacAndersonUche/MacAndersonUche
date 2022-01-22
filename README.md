@@ -12,7 +12,7 @@ I am a freelance front end developer with specialties in React and Javascript
   
 ### 🧐 More About Me:
 
-![](https://github.com/MacAndersonUche/github-stats/blob/master/generated/overview.svg)
+
 
 - 🌱 &nbsp; I’m currently learning NodeJs; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
