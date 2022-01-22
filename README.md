@@ -40,7 +40,7 @@ I am a freelance front end developer with specialties in React and Javascript
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a> -->
 
 <br>
-
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 
 <!-- ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
