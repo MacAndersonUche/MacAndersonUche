@@ -43,7 +43,10 @@ I am a freelance front end developer with specialties in React and Javascript
 
 
 ### 📊 Github Stats
-<img src="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/overview.svg"/>
+<div>
+  <img src="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/overview.svg"/>
+</div>
+
 <img src ="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/languages.svg"/>
 
 <!-- ### 📊 Github Stats
