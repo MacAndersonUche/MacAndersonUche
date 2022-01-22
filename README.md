@@ -41,7 +41,10 @@ I am a freelance front end developer with specialties in React and Javascript
 
 <br>
 
+
+### 📊 Github Stats
 <img src="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/overview.svg"/>
+<img src ="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/languages.svg"/>
 
 <!-- ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
