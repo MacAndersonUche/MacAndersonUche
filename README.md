@@ -49,5 +49,5 @@ I am a freelance front end developer with specialties in React and Javascript
 
 
 
-<br> -->
+<br>
 
