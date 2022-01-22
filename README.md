@@ -4,7 +4,7 @@
 <!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐)
+I am a freelance front end developer with specialties in React and Javascript
 <br/>
 <br/>
 
@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning NodeJs; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
