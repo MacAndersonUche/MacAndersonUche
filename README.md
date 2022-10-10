@@ -14,7 +14,7 @@ I am a freelance front end developer with specialties in React and Javascript
 
 ![](https://github.com/MacAndersonUche/github-stats/blob/master/generated/overview.svg)
 
-- 🌱 &nbsp; I’m currently learning NodeJs; 
+- 🌱 &nbsp; I’m a full stack developer (stronger on the backend); 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
