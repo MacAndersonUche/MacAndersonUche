@@ -4,10 +4,11 @@
 <!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
 
 
-I am an enthusiastic full-stack engineer that specializes in React, TypeScript,Node, AWS and JavaScript-based Progressive Web Apps and SPAs.
+As an enthusiastic full-stack engineer, I specialize in building cutting-edge React, TypeScript, Node, AWS, and JavaScript-based Progressive Web Apps and SPAs.
 
-My areas of technical expertise include HTML5, CSS, Sass, Javascript ES6+, TypeScript, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases, AWS Cloud Practitioner and AWS Developer Associate Certified. 
-My passions lie in discovering solutions and solving issues through software engineering and programming.
+With experience in HTML5, CSS, Sass, Javascript ES6+, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases and AWS Cloud Practitioner and AWS Developer Associate certified, I have the skills and knowledge to tackle any project.
+
+My passion for software engineering and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. Let's build something great together!
 <br/>
 <br/>
 
@@ -16,8 +17,7 @@ My passions lie in discovering solutions and solving issues through software eng
 ### 🧐 More About Me:
 
 ![](https://github.com/MacAndersonUche/github-stats/blob/master/generated/overview.svg)
-
-- 🌱 &nbsp; I’m a Software Engineer; 
+ 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
