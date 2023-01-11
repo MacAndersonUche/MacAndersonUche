@@ -4,7 +4,15 @@
 <!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
 
 
-I am a freelance front end developer with specialties in React and Javascript
+I am an enthusiastic full-stack engineer that specializes in React, TypeScript, and JavaScript-based Progressive Web Apps and SPAs.
+
+I firmly believe in Serverless architecture methodology to speed up development and make it much simpler.
+
+ My areas of technical expertise include HTML5, CSS, Sass, Javascript ES6+, TypeScript, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases, AWS Cloud Practitioner and AWS Developer Associate Certified. 
+
+I am presently preparing for the AWS Solutions Architect Associate certification. 
+
+My passions lie in discovering solutions and solving issues through software engineering and programming.
 <br/>
 <br/>
 
@@ -14,7 +22,7 @@ I am a freelance front end developer with specialties in React and Javascript
 
 ![](https://github.com/MacAndersonUche/github-stats/blob/master/generated/overview.svg)
 
-- 🌱 &nbsp; I’m a full stack developer (stronger on the backend); 
+- 🌱 &nbsp; I’m a Software Engineer; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
@@ -23,6 +31,8 @@ I am a freelance front end developer with specialties in React and Javascript
 
 
 <br>
+
+![](https://komarev.com/ghpvc/?username=MacAndersonUche&color=green&style=for-the-badge)
 
 <!-- ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -45,11 +55,4 @@ I am a freelance front end developer with specialties in React and Javascript
 ### 📊 Github Stats
 <a href="#"><img src="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/overview.svg"/></a>
 <a href="#"><img src ="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/languages.svg"/></a>
-  
-
-
-
 <br>
-
-
-![](https://komarev.com/ghpvc/?username=MacAndersonUche&color=green&style=for-the-badge)
