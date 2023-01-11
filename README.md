@@ -52,4 +52,4 @@ I am a freelance front end developer with specialties in React and Javascript
 <br>
 
 
-![](https://komarev.com/ghpvc/?MacAndersonUche=MacAndersonUche&color=green)
+![](https://komarev.com/ghpvc/?username=MacAndersonUche&color=green)
