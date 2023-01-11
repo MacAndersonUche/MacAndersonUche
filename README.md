@@ -4,14 +4,9 @@
 <!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
 
 
-I am an enthusiastic full-stack engineer that specializes in React, TypeScript, and JavaScript-based Progressive Web Apps and SPAs.
+I am an enthusiastic full-stack engineer that specializes in React, TypeScript,Node, AWS and JavaScript-based Progressive Web Apps and SPAs.
 
-I firmly believe in Serverless architecture methodology to speed up development and make it much simpler.
-
- My areas of technical expertise include HTML5, CSS, Sass, Javascript ES6+, TypeScript, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases, AWS Cloud Practitioner and AWS Developer Associate Certified. 
-
-I am presently preparing for the AWS Solutions Architect Associate certification. 
-
+My areas of technical expertise include HTML5, CSS, Sass, Javascript ES6+, TypeScript, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases, AWS Cloud Practitioner and AWS Developer Associate Certified. 
 My passions lie in discovering solutions and solving issues through software engineering and programming.
 <br/>
 <br/>
