@@ -46,7 +46,7 @@ My passion for software engineering and programming drives me to constantly seek
 <br>
 
 
-<!-- ### 📊 Github Stats
+### 📊 Github Stats
 <a href="#"><img src="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/overview.svg"/></a>
 <a href="#"><img src ="https://raw.githubusercontent.com/MacAndersonUche/statisticRepo/724e5a3d2c8b74410c051ce54dec11bb5bbd2365/generated/languages.svg"/></a>
-<br> -->
+<br>
