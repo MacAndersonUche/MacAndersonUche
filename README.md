@@ -40,7 +40,7 @@ I’m a **Senior Full-Stack & AI Engineer** with expertise in building scalable 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]https://github.com/MacAndersonUche?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, and I am happy to help, see my [blogs](https://dev.to/dashboard)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/macanderson-uche/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn]
 - 📝 &nbsp; Checkout my [resume](https://macandersonucheresume.netlify.app/)
 
 
