@@ -1,13 +1,33 @@
-## Hey 👋, I'm  Mac!
+## Hey 👋, I'm Mac!
 
-<!-- <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a> -->
+I’m a **Senior Full-Stack & AI Engineer** with expertise in building scalable applications and AI-driven systems.  
 
+### 🔹 What I Do
+- Build **full-stack platforms** with **React, TypeScript, Node.js, PostgreSQL, and AWS**  
+- Design **Python pipelines & APIs** (FastAPI, Docker) for data processing and ML workflows  
+- Develop **Agentic AI solutions** with **LangChain, OpenAI, and Retrieval-Augmented Generation (RAG)**  
+- Apply **machine learning & forecasting** using **PyTorch, TensorFlow, scikit-learn, AWS SageMaker**  
+- Integrate **CI/CD, monitoring, and automation** with GitHub/GitLab, Datadog, and Renovate  
 
-As an enthusiastic full-stack engineer, I specialize in building cutting-edge React, TypeScript, Node, AWS, and JavaScript-based Progressive Web Apps and SPAs.
+### 🔹 Skills & Tools
+- **Languages**: TypeScript, JavaScript (ES6+), Python, SQL  
+- **Frameworks**: React, Node.js, Express, FastAPI  
+- **Databases**: PostgreSQL + PGVector, DynamoDB, NoSQL  
+- **AI/ML**: LangChain, OpenAI API, Hugging Face Transformers, PyTorch, TensorFlow, scikit-learn, RAG  
+- **MLOps/Infra**: Docker, AWS SageMaker, MLflow, AWS (Cognito, API Gateway, Lambda, S3, CloudFormation, Step Functions)  
+- **Other**: GitHub/GitLab CI/CD, Datadog, Renovate, Cursor, Claude, Copilot  
 
-With experience in HTML5, CSS, Sass, Javascript ES6+, React.js, Node.js, Express.js, GraphQL, SQL, Postgres, NoSQL databases and AWS Cloud Practitioner and AWS Developer Associate certified, I have the skills and knowledge to tackle any project.
+### 🔹 Certifications
+- AWS Cloud Practitioner  
+- AWS Developer Associate
+- AWS Solutions Architect Associate
 
-My passion for software engineering and programming drives me to constantly seek out new challenges and discover innovative solutions to complex issues. Let's build something great together!
+---
+
+💡 Passionate about **AI-powered engineering**, I combine strong **full-stack experience** with deep **AI/ML tooling** to design systems that are secure, scalable, and intelligent.  
+
+🚀 Always excited to collaborate on projects at the intersection of **cloud, AI, and software engineering**. Let’s build something great together!
+
 <br/>
 <br/>
 
