@@ -6,15 +6,15 @@ I’m a **Senior Full-Stack & AI Engineer** with expertise in building scalable 
 - Build **full-stack platforms** with **React, TypeScript, Node.js, PostgreSQL, and AWS**  
 - Design **Python pipelines & APIs** (FastAPI, Docker) for data processing and ML workflows  
 - Develop **Agentic AI solutions** with **LangChain, OpenAI, and Retrieval-Augmented Generation (RAG)**  
-- Apply **machine learning & forecasting** using **PyTorch, TensorFlow, scikit-learn, AWS SageMaker**  
+- Apply **machine learning & forecasting** using ** scikit-learn, AWS SageMaker**  
 - Integrate **CI/CD, monitoring, and automation** with GitHub/GitLab, Datadog, and Renovate  
 
 ### 🔹 Skills & Tools
 - **Languages**: TypeScript, JavaScript (ES6+), Python, SQL  
 - **Frameworks**: React, Node.js, Express, FastAPI  
 - **Databases**: PostgreSQL + PGVector, DynamoDB, NoSQL  
-- **AI/ML**: LangChain, OpenAI API, Hugging Face Transformers, PyTorch, TensorFlow, scikit-learn, RAG  
-- **MLOps/Infra**: Docker, AWS SageMaker, MLflow, AWS (Cognito, API Gateway, Lambda, S3, CloudFormation, Step Functions)  
+- **AI/ML**: LangChain, OpenAI API, scikit-learn, RAG  
+- **MLOps/Infra**: Docker, AWS SageMaker, AWS (Cognito, API Gateway, Lambda, S3, CloudFormation, Step Functions)  
 - **Other**: GitHub/GitLab CI/CD, Datadog, Renovate, Cursor, Claude, Copilot  
 
 ### 🔹 Certifications
